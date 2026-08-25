@@ -1,6 +1,6 @@
 # Exp 7 Stock Market Prediction using Linear Regression and Real-Time Sentiment Analysis of Tweets
 
-**Date:**
+**Date:**25-08-2026
 
 ## AIM:
 
@@ -130,10 +130,11 @@ print(data[["text", "Sentiment"]].head())
 ```
 ## OUTPUT:
 <img width="305" height="103" alt="Screenshot 2026-08-25 112107" src="https://github.com/user-attachments/assets/4ef2156c-9b9f-45b4-8afc-85ed07be32e2" />
-<img width="305" height="103" alt="Screenshot 2026-08-25 112107" src="https://github.com/user-attachments/assets/c14bb065-2cc8-413f-831e-aada8cb85ef0" />
-<img width="305" height="103" alt="Screenshot 2026-08-25 112107" src="https://github.com/user-attachments/assets/f762d341-06bf-49b2-9da2-5fb3e21b2909" />
-<img width="305" height="103" alt="Screenshot 2026-08-25 112107" src="https://github.com/user-attachments/assets/d1d446d5-6a8e-4bd7-b773-13dbd4f42f24" />
-<img width="305" height="103" alt="Screenshot 2026-08-25 112107" src="https://github.com/user-attachments/assets/8c286022-acd4-480f-aee6-273dc50767cd" />
+<img width="437" height="292" alt="Screenshot 2026-08-25 112058" src="https://github.com/user-attachments/assets/3cded8eb-697c-4204-9720-2b9b6ebb53e7" />
+<img width="375" height="71" alt="Screenshot 2026-08-25 112013" src="https://github.com/user-attachments/assets/ec966954-ac2f-4ed9-ac19-0329c1f4cf7f" />
+<img width="336" height="93" alt="Screenshot 2026-08-25 111953" src="https://github.com/user-attachments/assets/c93b4492-5965-488c-8b7e-fe66d1147ce6" />
+<img width="372" height="295" alt="Screenshot 2026-08-25 111945" src="https://github.com/user-attachments/assets/36a3d11d-4916-48e6-9b19-1d457a586656" />
+
 
 
 ## RESULT:
